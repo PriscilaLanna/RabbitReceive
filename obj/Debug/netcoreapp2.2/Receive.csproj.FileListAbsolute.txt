@@ -1,0 +1,11 @@
+C:\Priscila\Receive\bin\Debug\netcoreapp2.2\Receive.deps.json
+C:\Priscila\Receive\bin\Debug\netcoreapp2.2\Receive.runtimeconfig.json
+C:\Priscila\Receive\bin\Debug\netcoreapp2.2\Receive.runtimeconfig.dev.json
+C:\Priscila\Receive\bin\Debug\netcoreapp2.2\Receive.dll
+C:\Priscila\Receive\bin\Debug\netcoreapp2.2\Receive.pdb
+C:\Priscila\Receive\obj\Debug\netcoreapp2.2\Receive.csprojAssemblyReference.cache
+C:\Priscila\Receive\obj\Debug\netcoreapp2.2\Receive.csproj.CoreCompileInputs.cache
+C:\Priscila\Receive\obj\Debug\netcoreapp2.2\Receive.AssemblyInfoInputs.cache
+C:\Priscila\Receive\obj\Debug\netcoreapp2.2\Receive.AssemblyInfo.cs
+C:\Priscila\Receive\obj\Debug\netcoreapp2.2\Receive.dll
+C:\Priscila\Receive\obj\Debug\netcoreapp2.2\Receive.pdb
